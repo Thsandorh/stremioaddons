@@ -1,12 +1,10 @@
 https://comet.elfhosted.com/manifest.json
-https://torrentio.strem.fun/manifest.json
 https://mediafusion.elfhosted.com/manifest.json
 https://848b3516657c-usatv.baby-beamup.club/manifest.json
 https://aiostreams.elfhosted.com/stremio/manifest.json
 https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/manifest.json
 https://addon-marvel.onrender.com/manifest.json
 https://nuviostreams.hayd.uk/manifest.json
-https://torrentio.strem.fun/manifest.json
 https://opensubtitlesv3-pro.dexter21767.com/manifest.json
 https://thepiratebay-plus.strem.fun/manifest.json
 https://webstreamr.hayd.uk/manifest.json
@@ -14,4 +12,4 @@ https://addon-dc-cq85.onrender.com/manifest.json
 https://1fe84bc728af-imdb-catalogs.baby-beamup.club/manifest.json
 https://top-streaming.stream/username=temporary_username/manifest.json
 https://addon-star-wars-u9e3.onrender.com/manifest.json
-https://torrent-catalogs.strem.fun/manifest.json
+
