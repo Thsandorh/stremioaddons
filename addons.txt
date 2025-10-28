@@ -11,5 +11,4 @@ https://addon-dc-cq85.onrender.com/manifest.json
 https://1fe84bc728af-imdb-catalogs.baby-beamup.club/manifest.json
 https://top-streaming.stream/username=temporary_username/manifest.json
 https://addon-star-wars-u9e3.onrender.com/manifest.json
-https://da5f663b4690-minhatv.baby-beamup.club/manifest.json
-https://848b3516657c-argentinatv.baby-beamup.club/manifest.json
+
