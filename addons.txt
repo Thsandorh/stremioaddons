@@ -1,3 +1,4 @@
+https://flixnest.app/flix-streams/
 https://nuviostreams.hayd.uk/manifest.json
 https://webstreamr.hayd.uk/manifest.json
 https://comet.elfhosted.com/manifest.json
